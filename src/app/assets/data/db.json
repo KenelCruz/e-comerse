@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Lash Princess Mascara",
+      "description": "The Essence Lash Princess mascara is known for its volumizing and lengthening effect. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "brand": "Essence",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The eyeshadow palette with a mirror offers a versatile range of shades to create stunning looks. Ideal for on-the-go makeup applications.",
+      "category": "beauty",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 3.28,
+      "stock": 44,
+      "brand": "Glamour Beauty",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "Facial Moisturizer",
+      "description": "Lightweight and non-greasy facial moisturizer that provides deep hydration for 24 hours. Suitable for all skin types.",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 30,
+      "brand": "SkinCare Pro",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Facial%20Moisturizer/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Facial%20Moisturizer/thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Professional Makeup Brush Set",
+      "description": "High-quality makeup brush set, perfect for applying foundations, eyeshadows, and powders.",
+      "category": "beauty",
+      "price": 24.99,
+      "discountPercentage": 8.25,
+      "rating": 4.7,
+      "stock": 15,
+      "brand": "BeautyPro",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Makeup%20Brush%20Set/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Makeup%20Brush%20Set/thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "Classic Floral Perfume",
+      "description": "Classic floral perfume with a fresh and long-lasting fragrance. Perfect for special occasions.",
+      "category": "beauty",
+      "price": 49.99,
+      "discountPercentage": 12.5,
+      "rating": 4.8,
+      "stock": 10,
+      "brand": "Classic Scent",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Classic%20Floral%20Perfume/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Classic%20Floral%20Perfume/thumbnail.png"
+    },
+    {
+      "id": 6,
+      "title": "Red Nail Polish",
+      "description": "Quick-drying nail polish with a glossy and long-lasting finish.",
+      "category": "beauty",
+      "price": 7.99,
+      "discountPercentage": 3.0,
+      "rating": 4.3,
+      "stock": 50,
+      "brand": "NailPro",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+      "id": 7,
+      "title": "Facial Rejuvenating Serum",
+      "description": "Concentrated serum to reduce wrinkles and improve skin firmness. Made with natural ingredients.",
+      "category": "beauty",
+      "price": 29.99,
+      "discountPercentage": 15.0,
+      "rating": 4.9,
+      "stock": 20,
+      "brand": "YouthGlow",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Facial%20Serum/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Facial%20Serum/thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "Matte Long-Lasting Lipstick",
+      "description": "Matte lipstick with a long-lasting formula and vibrant colors.",
+      "category": "beauty",
+      "price": 12.99,
+      "discountPercentage": 4.5,
+      "rating": 4.2,
+      "stock": 35,
+      "brand": "GlamLips",
+      "images": ["https://cdn.dummyjson.com/products/images/beauty/Matte%20Lipstick/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Matte%20Lipstick/thumbnail.png"
+    },
+    {
+      "id": 9,
+      "title": "Classic Leather Jacket",
+      "description": "A timeless black leather jacket that complements any outfit. High-quality and durable material for everyday wear.",
+      "category": "clothing",
+      "price": 89.99,
+      "discountPercentage": 10.0,
+      "rating": 4.8,
+      "stock": 12,
+      "brand": "StyleEdge",
+      "images": ["https://cdn.dummyjson.com/products/images/clothing/Classic%20Leather%20Jacket/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/clothing/Classic%20Leather%20Jacket/thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Ergonomic Office Chair",
+      "description": "Ergonomic office chair with adjustable height and lumbar support for maximum comfort.",
+      "category": "furniture",
+      "price": 149.99,
+      "discountPercentage": 12.0,
+      "rating": 4.6,
+      "stock": 25,
+      "brand": "ComfortSeat",
+      "images": ["https://cdn.dummyjson.com/products/images/furniture/Office%20Chair/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Office%20Chair/thumbnail.png"
+    },
+    {
+      "id": 11,
+      "title": "Bluetooth Noise-Cancelling Headphones",
+      "description": "Enjoy high-quality sound with active noise cancellation and a comfortable design.",
+      "category": "electronics",
+      "price": 199.99,
+      "discountPercentage": 15.0,
+      "rating": 4.7,
+      "stock": 8,
+      "brand": "TechGear",
+      "images": ["https://cdn.dummyjson.com/products/images/electronics/Bluetooth%20Headphones/1.png"],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/electronics/Bluetooth%20Headphones/thumbnail.png"
+    }
+
+  ],
+  "carts": [],
+  "users": [
+    {
+      "id": 1,
+      "nombre": "John Doe",
+      "email": "john.doe@ejemplo.com",
+      "password": "password123",
+      "direccion": "123 Calle Principal, Ciudad Ejemplo",
+      "telefono": "555-1234"
+    },
+    {
+      "id": 2,
+      "nombre": "Jane Smith",
+      "email": "jane.smith@ejemplo.com",
+      "password": "password456",
+      "direccion": "456 Calle Secundaria, Ciudad Ejemplo",
+      "telefono": "555-5678"
+    }
+  ]
+}
