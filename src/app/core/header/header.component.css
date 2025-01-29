@@ -1,0 +1,100 @@
+.navbar {
+  position: relative;
+  width: 1000px;
+  height: 100px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.navbar .categorias {
+  left: 375px;
+  font-family: "League Spartan-Regular", Helvetica;
+  position: absolute;
+  width: 90px;
+  top: 40px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.navbar .text-wrapper {
+  left: 516px;
+  font-family: "Inter-Regular", Helvetica;
+  position: absolute;
+  width: 90px;
+  top: 40px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.navbar .div {
+  left: 234px;
+  font-family: "League Spartan-Regular", Helvetica;
+  position: absolute;
+  width: 90px;
+  top: 40px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.navbar .categorias-2 {
+  left: 657px;
+  font-family: "League Spartan-Regular", Helvetica;
+  position: absolute;
+  width: 90px;
+  top: 40px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.navbar .logo {
+  position: absolute;
+  width: 112px;
+  height: 28px;
+  top: 36px;
+  left: 32px;
+}
+
+.navbar .shopping-cart {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 30px;
+  left: 892px;
+}
+
+.navbar .heart {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 30px;
+  left: 837px;
+}
+
+.navbar .user {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 30px;
+  left: 947px;
+}
