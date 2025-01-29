@@ -1,0 +1,145 @@
+.property-card {
+  display: inline-flex;
+  align-items: center;
+  gap: 8.84px;
+  padding: 15.02px 7.95px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 10.6px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.property-card:hover {
+
+  display: inline-flex;
+  align-items: center;
+  gap: 8.84px;
+  padding: 15.02px 7.95px;
+  position: relative;
+  background-color: #60B9BE;
+  border-radius: 10.6px;
+  overflow: hidden;
+.text-wrapper {
+    position: relative;
+    align-self: stretch;
+    margin-top: -0.88px;
+    font-family: "League Spartan-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28.3px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+.lorem-ipsum-is{
+    color: #ffffff;
+  }
+  svg > path {
+    fill: #ffffff;
+  }
+
+}
+
+.property-card .frame {
+  display: inline-flex;
+  align-items: center;
+  gap: 8.84px;
+  padding: 8.84px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-card .div {
+  display: flex;
+  flex-direction: column;
+  width: 280.08px;
+  align-items: flex-start;
+  gap: 42.41px;
+  position: relative;
+}
+
+.property-card .frame-2 {
+  display: flex;
+  width: 53.01px;
+  height: 53.01px;
+  align-items: center;
+  gap: 8.84px;
+  padding: 8.84px;
+  position: relative;
+}
+
+.property-card .group {
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  top: 0;
+  left: 0;
+  background-color: #3c6e7152;
+  border-radius: 7.07px;
+}
+
+.property-card .devices-speaker {
+  position: relative;
+  width: 35.34px;
+  height: 35.34px;
+}
+
+.property-card .frame-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 30.04px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.property-card .frame-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 49.48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.property-card .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.88px;
+  font-family: "League Spartan-Regular", Helvetica;
+  font-weight: 400;
+  color: #284b63;
+  font-size: 28.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.property-card .lorem-ipsum-is {
+  position: relative;
+  align-self: stretch;
+  font-family: "League Spartan-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14.1px;
+  letter-spacing: 0;
+  line-height: normal;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+
+
+
+.property-card .arrows-chevron-arrow {
+  position: relative;
+  width: 47.71px;
+  height: 47.71px;
+}
