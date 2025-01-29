@@ -1,0 +1,210 @@
+.main-container {
+  overflow: hidden;
+}
+
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 7.189px;
+  position: relative;
+  width: 180.44px;
+  height: 273.176px;
+
+  background: #ffffff;
+  border-radius: 18.691px;
+  transition: all 0.3s ease;
+}
+.main-container:hover{
+  background: #60B9BE;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 7.189px;
+  position: relative;
+  min-width: 0;
+  height: 25.161px;
+  padding: 0 12.94px 0 17.253px;
+}
+
+
+.nav-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  gap: 7.189px;
+  position: relative;
+  width: 99.925px;
+  min-height: 0;
+  padding: 7.189px 7.189px 7.189px 7.189px;
+  background: #3c6e71;
+  z-index: 1;
+  border-radius: 0 0 12.94px 12.94px;
+}
+.product-express {
+  align-self: stretch;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  min-width: 0;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: League Spartan, var(--default-font-family), serif;
+  font-size: 11.5px;
+  font-weight: 400;
+  line-height: 10.582px;
+  white-space: nowrap;
+  background: transparent;
+  border: none;
+  z-index: 2;
+}
+.frame-1 {
+  flex-shrink: 0;
+  position: absolute;
+  width: 180.44px;
+  height: 260.236px;
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+.esmaltes {
+  position: relative;
+  width: 119px;
+  height: 167px;
+  margin: 36.995px 0 0 30.556px;
+  background-size: cover;
+  z-index: 4;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 4.313px;
+  position: relative;
+  width: 171.813px;
+  height: 43.852px;
+  margin: 12px 0 0 4.556px;
+  padding: 2.876px 5.032px 0 4.313px;
+  z-index: 5;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 5.751px;
+  position: relative;
+  min-width: 0;
+  z-index: 6;
+}
+.frame-4 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  gap: 2.876px;
+  position: relative;
+  width: 132.275px;
+  height: 10.783px;
+  z-index: 7;
+}
+
+.frame-9 {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  min-width: 0;
+  z-index: 14;
+}
+.k {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  width: 17.253px;
+  height: 2.157px;
+  color: #353535;
+  font-family: League Spartan, var(--default-font-family), serif;
+  font-size: 8.626608848571777px;
+  font-weight: 700;
+  line-height: 2.157px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 15;
+}
+.rese-as {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  position: relative;
+  height: 2.157px;
+  color: #353535;
+  font-family: League Spartan, var(--default-font-family), serif;
+  font-size: 8.626608848571777px;
+  font-weight: 400;
+  line-height: 2.157px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 16;
+}
+.essence-mascara-lash {
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 10px;
+  color: #353535;
+  font-family: League Spartan, var(--default-font-family), serif;
+  font-size: 10.7832612991333px;
+  font-weight: 400;
+  line-height: 9.921px;
+  text-align: left;
+  white-space: nowrap;
+  z-index: 17;
+}
+.price {
+  flex-shrink: 0;
+  flex-basis: auto;
+  position: relative;
+  height: 10px;
+  color: #353535;
+  font-family: League Spartan, var(--default-font-family), serif;
+  font-size: 10.7832612991333px;
+  font-weight: 700;
+  line-height: 9.921px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  z-index: 18;
+}
